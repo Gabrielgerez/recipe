@@ -1,3 +1,4 @@
-# Guacamole recipe
 
-This is an exercise repository.
+# Centralized workflow exercise
+
+Exercise description: https://coderefinery.github.io/git-collaborative/centralized/
